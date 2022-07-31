@@ -62,23 +62,8 @@
     box-shadow: 0px 5px 0px 0px #b157e68e;
     transition-duration: 0.3s;
   }
-
-
-button:active {
-    box-shadow: 0px 0px;
-}
-
-  .operator:hover{
-    /* background-color: #c467fad2;
-    color:#fff; */
-    box-shadow: 0px 0px 0px 0px #b157e68e;
-  }
-
-  .number:hover{
-    box-shadow: 0px 0px 0px 0px #b157e68e;
-  }
-
-  .decimal:hover{
+  
+  button:hover{
     /* background-color: #c467fad2;
     color:#fff; */
     box-shadow: 0px 0px 0px 0px #b157e68e;
@@ -87,10 +72,6 @@ button:active {
   .num0{
     flex: 1;
     border-radius: 10px;
-  }
-
-  .num0:hover{
-    box-shadow: 0px 0px 0px 0px #b157e68e;
   }
 
   .ac {
